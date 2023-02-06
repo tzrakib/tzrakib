@@ -1,6 +1,6 @@
 <p align="center">
 <!-- <img src="https://static.dribbble.com/users/730703/screenshots/6581243/avento.gif"> -->
-<img src="[https://user-images.githubusercontent.com/61485238/191235891-c55aed06-3675-472c-b3c5-736bdad41126.jpg](https://github.com/tzrakib/tzrakib/blob/main/gitbub.tzrakib.png?raw=true)" alt="tzrakib_cover">
+<img src="https://github.com/tzrakib/tzrakib/blob/main/gitbub.tzrakib.png?raw=true" alt="tzrakib_cover">
 </p>
 <h1 align="center">Howdy 👋, I'm Tz Rakib! </h1>
 <p align="center">
