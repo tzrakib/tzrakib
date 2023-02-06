@@ -46,30 +46,30 @@
 
 <br>
   
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=alnahian2003&amp;show_icons=true&amp;theme=vue&amp;include_all_commits=true" alt="Al Nahian&#39;s GitHub stats" width="600"></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=tzrakib&amp;show_icons=true&amp;theme=vue&amp;include_all_commits=true" alt="tzrakib&#39;s GitHub stats" width="600"></p>
 </p>
 
 <p align="center">
-  <a href="https://facebook.com/alnahian2003" target="_blank">
-    <img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat&labelColor=1877F2&logo=facebook&logoColor=white&link=https://facebook.com/alnahian2003" height="28">
+  <a href="https://facebook.com/tzrakib365" target="_blank">
+    <img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat&labelColor=1877F2&logo=facebook&logoColor=white&link=https://facebook.com/tzrakib365" height="28">
   </a>
   
-  <a href="https://twitter.com/alnahian2003" target="_blank">
-    <img src="https://img.shields.io/badge/-Twitter-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/alnahian2003" height="28">
+  <a href="https://twitter.com/tzrakib" target="_blank">
+    <img src="https://img.shields.io/badge/-Twitter-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/tzrakib" height="28">
   </a>
-  <a href="https://behance.net/alnahian2003" target="_blank">
-    <img src="https://img.shields.io/badge/-Behance-053eff?style=flat&labelColor=053eff&logo=behance&logoColor=white&link=https://behance.net/alnahian2003" height="28">
+  <a href="https://behance.net/tzrakib" target="_blank">
+    <img src="https://img.shields.io/badge/-Behance-053eff?style=flat&labelColor=053eff&logo=behance&logoColor=white&link=https://behance.net/tzrakib" height="28">
   </>
-  <a href="mailto:a.alnahian2003@gmail.com?subject=Hello Dear Al Nahian! I send this message from your Github Profile. I need to talk to you!" target="_blank">
-    <img src="https://img.shields.io/badge/-Mail Me-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:a.alnahian2003@gmail.com" height="28">
+  <a href="mailto:tzrakib@gmail.com?subject=Hello Dear Tz Rakib! I send this message from your Github Profile. I need to talk to you!" target="_blank">
+    <img src="https://img.shields.io/badge/-Mail Me-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:tzrakib@gmail.com" height="28">
   </a>
-  <a href="https://github.com/alnahian2003" target="_blank">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/alnahian2003?label=Github&style=flat" height="28">
+  <a href="https://github.com/tzrakib" target="_blank">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/tzrakib?label=Github&style=flat" height="28">
   </a>
-  <a href="https://github.com/alnahian2003" target="_blank">
-    <img src="https://komarev.com/ghpvc/?username=alnahian2003&label=Views&color=brightgreen&style=flat" alt="alnahian2003" height="28" />
+  <a href="https://github.com/tzrakib" target="_blank">
+    <img src="https://komarev.com/ghpvc/?username=alnahian2003&label=Views&color=brightgreen&style=flat" alt="tzrakib" height="28" />
   </a>
-  <a href="https://alnahian2003.github.io" target="_blank">
+  <a href="https://tzrakib.github.io" target="_blank">
     <img alt="Visit Portfolio" src="https://img.shields.io/badge/Visit-Portfolio-brightgreen&style=flat" height="28">
   </a>
 </p>
